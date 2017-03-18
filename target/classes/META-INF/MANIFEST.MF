@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: TelecomSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: abhinav
+Implementation-Vendor-Id: com.wipro.archit.telecom
+Build-Jdk: 1.8.0_20-internal
+Implementation-URL: http://projects.spring.io/spring-boot/TelecomSyste
+ m/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
